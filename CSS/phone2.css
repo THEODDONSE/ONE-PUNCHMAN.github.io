@@ -8,14 +8,15 @@
     padding: 0px 7px;
     padding-bottom: 8px;
 }
-.services img{
-    width: 16rem;
+#ok img{
+    width:16rem;
 }
 /* Home section */
 #home{
     height: 370px; 
     padding: 3px 28px;
 }
+
 
 #home::before{
     height: 480px; 

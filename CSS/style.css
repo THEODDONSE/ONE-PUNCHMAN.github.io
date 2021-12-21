@@ -151,9 +151,8 @@ footer{
 .btn img{
     height: 120px;
 }
-
 .btn :hover{
-    transition: all 4s ease-in-out;
+    transition: all 4s ;
     transform: scale(6);
 }
 .btn{
